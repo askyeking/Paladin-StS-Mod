@@ -1,0 +1,12 @@
+{
+  "modid": "paladinmod",
+  "name": "Paladin Mod 0.1.1",
+  "author_list": ["Pudgypoultry"],
+  "description": "The fallen paladin awakes at the foot of a tall, looming spire...",
+  "version": "1.0.0",
+  "sts_version": "${SlayTheSpire.version}",
+  "mts_version": "${ModTheSpire.version}",
+  "dependencies": ["basemod", "stslib"],
+  "update_json": ""
+}
+

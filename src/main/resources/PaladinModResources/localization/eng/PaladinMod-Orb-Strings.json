@@ -1,0 +1,34 @@
+{
+  "PaladinMod:PaladinOrb": {
+    "NAME": "Paladin Orb",
+    "DESCRIPTION": [
+      "#yPassive: At the start of your turn, draw #b",
+      " card.",
+      " cards.",
+      "NL #yEvoke: Deal #b damage to all enemies."
+    ]
+  },
+  "PaladinMod:SealOfRighteousness": {
+    "NAME": "Seal of Righteousness",
+    "DESCRIPTION": [
+      "#yPassive: At the start of your turn, gain #b",
+      " Plated Armor. NL #yEvoke: Spend all Devotion. Gain #b10 block per Devotion spent."
+    ]
+  },
+
+  "PaladinMod:SealOfLight": {
+    "NAME": "Seal of Light",
+    "DESCRIPTION": [
+      "#yPassive: At the start of your turn, heal #b",
+      " HP. NL #yEvoke: Spend all Devotion. Heal #b5 HP per Devotion spent."
+    ]
+  },
+
+  "PaladinMod:SealOfJustice": {
+    "NAME": "Seal of Justice",
+    "DESCRIPTION": [
+      "#yPassive: At the start of your turn, gain #b",
+      " Thorns. NL #yEvoke: Spend all Devotion. Deal #b7 damage to each enemy per Devotion spent."
+    ]
+  }
+}

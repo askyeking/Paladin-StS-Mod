@@ -1,0 +1,13 @@
+{
+  "PaladinMod:PaladinCharacter": {
+    "NAMES": [
+      "Paladin",
+      "Paladin"
+    ],
+    "TEXT": [
+      "The slain paladin wakes up at the foot of a tall and looming spire... NL Use Tirion's devotion to the Light to break this horrid cycle.",
+      "NL You TOUCH the heart.",
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~HOLY~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
+    ]
+  }
+}

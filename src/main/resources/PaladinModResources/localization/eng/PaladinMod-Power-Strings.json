@@ -1,0 +1,17 @@
+{
+"PaladinMod:CommonPower": {
+        "NAME": "Placeholder Power",
+        "DESCRIPTIONS": ["You applied #b", " keyword.", " keywords."]
+},
+"PaladinMod:RarePower": {
+        "NAME": "Placeholder Power",
+        "DESCRIPTIONS": ["At the start of your turn, TOUCH #b", " enemy." , " enemies."]
+},
+"PaladinMod:DevotionPower": {
+        "NAME": "Devotion",
+        "DESCRIPTIONS": ["You currently have #b", " #yDevotion."]
+}
+
+
+
+}

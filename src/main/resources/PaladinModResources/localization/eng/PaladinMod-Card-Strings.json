@@ -1,0 +1,138 @@
+{
+  "PaladinMod:StrikePaladin": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! Damage."
+  },
+  "PaladinMod:DefendPaladin": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "PaladinMod:PaladinCommonPower": {
+    "NAME": "Hold Place",
+    "DESCRIPTION": "Gain !M! PaladinMod:Keyword.",
+    "UPGRADE_DESCRIPTION": "Gain !M! PaladinMod:Keywords."
+  },
+  "PaladinMod:PaladinUncommonAttack": {
+    "NAME": "Big slap",
+    "DESCRIPTION": "Deal !D! Damage.  NL [#0000ff]This[] [#ff0000]Is[] [#ffff00]How[] [#88888]color[] [#ff00ff]works.[]"
+  },
+  "PaladinMod:PaladinUncommonSkill": {
+    "NAME": "A Better Defend",
+    "DESCRIPTION": "Gain !B! Plated Armor. Affected by Dexterity."
+  },
+  "PaladinMod:PaladinUncommonPower": {
+    "NAME": "Weirdness",
+    "DESCRIPTION": "Gain X PaladinMod:Keywords.",
+    "UPGRADE_DESCRIPTION": "Gain X +1 PaladinMod:Keywords."
+  },
+  "PaladinMod:PaladinRareAttack": {
+    "NAME": "TOUCH",
+    "DESCRIPTION": "Deal !D! Damage."
+  },
+  "PaladinMod:PaladinRareSkill": {
+    "NAME": "For Each Loop x2",
+    "DESCRIPTION": "Apply !M! vulnerable to all enemies, 2 times.",
+    "UPGRADE_DESCRIPTION": "Apply !M! vulnerable to all enemies, 3 times."
+  },
+  "PaladinMod:PaladinRarePower": {
+    "NAME": "In-Progress Form",
+    "DESCRIPTION": "At the start of your turn, play a TOUCH."
+  },
+  "PaladinMod:PaladinAttackWithVariable": {
+    "NAME": "Special Strike",
+    "DESCRIPTION": "Deal !D! Damage [E] times. NL (Deal !PaladinMod:ENERGY_DAMAGE! damage total.)"
+  },
+  "PaladinMod:PaladinSecondMagicNumberSkill": {
+    "NAME": "Cool 2 Number Card",
+    "DESCRIPTION": "Apply !M! vulnerable and !PaladinMod:SecondMagic! poison to an enemy."
+  },
+  "PaladinMod:OrbSkill": {
+    "NAME": "Get Orb",
+    "DESCRIPTION": "Channel 1 Paladin Orb."
+  },
+  "PaladinMod:RighteousDuty": {
+    "NAME": "Righteous Duty",
+    "DESCRIPTION": "Remove your seal. Channel a Seal of Righteousness. Exhaust.",
+    "UPGRADE_DESCRIPTION": "Channel a Seal of Righteousness. Exhaust."
+  },
+  "PaladinMod:FaithInTheLight": {
+    "NAME": "Faith In The Light",
+    "DESCRIPTION": "Remove your seal. Channel a Seal of Light. Exhaust.",
+    "UPGRADE_DESCRIPTION": "Channel a Seal of Light. Exhaust."
+  },
+  "PaladinMod:JusticeForAll": {
+    "NAME": "Justice For All",
+    "DESCRIPTION": "Remove your seal. Channel a Seal of Justice. Exhaust.",
+    "UPGRADE_DESCRIPTION": "Channel a Seal of Justice. Exhaust."
+  },
+  "PaladinMod:WakeOfAshes": {
+    "NAME": "Wake of Ashes",
+    "DESCRIPTION": "Deal !D! damage to all enemies. NL Gain 5 Devotion."
+  },
+  "PaladinMod:HolySmite": {
+    "NAME": "Holy Smite",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! weak. NL Gain !M! Devotion."
+  },
+  "PaladinMod:TemplarsVerdict": {
+    "NAME": "Templar's Verdict",
+    "DESCRIPTION": "Deal !D! damage. NL If you have !M! or more Devotion, NL deal that much plus 15 instead."
+  },
+  "PaladinMod:Prayer": {
+    "NAME": "Prayer",
+    "DESCRIPTION": "Gain !M! Dexterity until end of turn"
+  },
+  "PaladinMod:RighteousAnger": {
+    "NAME": "Righteous Anger",
+    "DESCRIPTION": "Deal !M! damage per devotion (Deals !D! Damage). NL Put a copy of this card into your discard pile."
+  },
+  "PaladinMod:Rebuke": {
+    "NAME": "Rebuke",
+    "DESCRIPTION": "Deal 12 Damage. NL Gain !M! Devotion."
+  },
+  "PaladinMod:Judgement": {
+    "NAME": "Judgement",
+    "DESCRIPTION": "Deal 9 Damage. NL Evoke your seal. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal 9 Damage. NL Evoke your seal and rechannel it. NL Exhaust."
+  },
+  "PaladinMod:LayOnHands": {
+    "NAME": "Lay On Hands",
+    "DESCRIPTION": "Draw until your hand is full. NL Shuffle your discard pile into your deck. NL Heal 10. NL Exhaust."
+  },
+  "PaladinMod:SentinelStance": {
+    "NAME": "Sentinel Stance",
+    "DESCRIPTION": "Gain !B! block. NL Valiance - Gain !M! plated armor."
+  },
+  "PaladinMod:BlindingLight": {
+    "NAME": "Blinding Light",
+    "DESCRIPTION": "All Enemies gain !M! weak. NL Gain !M! devotion. NL Draw a card."
+  },
+  "PaladinMod:BlessingOfWisdom": {
+    "NAME": "Blessing of Wisdom",
+    "DESCRIPTION": "Gain 3 Focus. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain 3 Focus."
+  },
+  "PaladinMod:BlessingOfKings": {
+    "NAME": "Blessing of Kings",
+    "DESCRIPTION": "Gain !M! Strength and Dexterity. NL Exhaust."
+  },
+  "PaladinMod:FlashOfLight": {
+    "NAME": "Flash of Light",
+    "DESCRIPTION": "Gain !M! Life. NL Draw !M! Cards. NL Exhaust."
+  },
+  "PaladinMod:CrusadersJudgement": {
+    "NAME": "Crusader's Judgement",
+    "DESCRIPTION": "Draw !M! Cards. NL Deal damage equal to the number of cards in your hand( !D! )"
+  },
+  "PaladinMod:BlessedBreastplate": {
+    "NAME": "Blessed Breastplate",
+    "DESCRIPTION": "Gain !B! block. Gain 1 Devotion"
+  },
+  "PaladinMod:DivineStorm": {
+    "NAME": "Divine Storm",
+    "DESCRIPTION": "Deal !D! damage.  Spend all Devotion and add a free copy of this card for each Devotion spent. (They will exhaust when played)"
+  },
+  "PaladinMod:ContemplativeMedicine": {
+    "NAME": "Contemplative Medicine",
+    "DESCRIPTION": "Spend all Devotion.  Gain focus equal to Devotion spent.  Exhaust."
+  }
+}
